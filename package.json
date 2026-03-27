@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "docx": "^9.6.1",
+    "htmlparser2": "^12.0.0",
+    "image-size": "^2.0.2",
+    "marked": "^17.0.5"
+  },
+  "dependencies": {
+    "pdf-parse": "^2.4.5"
+  }
+}

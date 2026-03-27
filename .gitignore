@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Lab manual files
+lab_manual/
+*.pdf
+
+# Word reports & generated docs
+wordReports/
+*.docx
+*.doc
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
